@@ -1,0 +1,686 @@
+﻿Installing assembly 'D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.exe
+   logfile = D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.InstallLog
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.exe assembly.
+Committing assembly 'D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.exe
+   logfile = D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.InstallLog
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.exe assembly.
+Remove InstallState file because there are no installers.
+Installing assembly 'D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.exe
+   logfile = D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.InstallLog
+Rolling back assembly 'D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.exe
+   logfile = D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.InstallLog
+Installing assembly 'D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.exe
+   logfile = D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.InstallLog
+Installing service Network Connection...
+Service Network Connection has been successfully installed.
+Creating EventLog source Network Connection in log Application...
+Committing assembly 'D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.exe
+   logfile = D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.InstallLog
+Installing assembly 'D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.exe
+   logfile = D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.InstallLog
+Installing service Network Connection...
+Creating EventLog source Network Connection in log Application...
+Rolling back assembly 'D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.exe
+   logfile = D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.InstallLog
+Restoring event log to previous state for source Network Connection.
+Uninstalling assembly 'D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.exe
+   logfile = D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.InstallLog
+Removing EventLog source Network Connection.
+Service Network Connection is being removed from the system...
+Service Network Connection was successfully removed from the system.
+Installing assembly 'D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.exe
+   logfile = D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.InstallLog
+Installing service Network Connection...
+Service Network Connection has been successfully installed.
+Creating EventLog source Network Connection in log Application...
+Committing assembly 'D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.exe
+   logfile = D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.InstallLog
+Uninstalling assembly 'D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.exe
+   logfile = D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.InstallLog
+Removing EventLog source Network Connection.
+Service Network Connection is being removed from the system...
+Service Network Connection was successfully removed from the system.
+Installing assembly 'D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.exe
+   logfile = D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.InstallLog
+Installing service Network Connection...
+Service Network Connection has been successfully installed.
+Creating EventLog source Network Connection in log Application...
+Committing assembly 'D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.exe
+   logfile = D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.InstallLog
+Uninstalling assembly 'D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.exe
+   logfile = D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.InstallLog
+Removing EventLog source Network Connection.
+Service Network Connection is being removed from the system...
+Service Network Connection was successfully removed from the system.
+Installing assembly 'D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.exe
+   logfile = D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.InstallLog
+Installing service Network Connection...
+Service Network Connection has been successfully installed.
+Creating EventLog source Network Connection in log Application...
+Committing assembly 'D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.exe
+   logfile = D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.InstallLog
+Installing assembly 'D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.exe
+   logfile = D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.InstallLog
+Installing service Network Connection...
+Creating EventLog source Network Connection in log Application...
+Rolling back assembly 'D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.exe
+   logfile = D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.InstallLog
+Restoring event log to previous state for source Network Connection.
+Uninstalling assembly 'D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.exe
+   logfile = D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.InstallLog
+Removing EventLog source Network Connection.
+Service Network Connection is being removed from the system...
+Service Network Connection was successfully removed from the system.
+Installing assembly 'D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.exe
+   logfile = D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.InstallLog
+Installing service Network Connection...
+Service Network Connection has been successfully installed.
+Creating EventLog source Network Connection in log Application...
+Committing assembly 'D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.exe
+   logfile = D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.InstallLog
+Uninstalling assembly 'D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.exe
+   logfile = D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.InstallLog
+Removing EventLog source Network Connection.
+Service Network Connection is being removed from the system...
+Service Network Connection was successfully removed from the system.
+Installing assembly 'D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.exe
+   logfile = D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.InstallLog
+Installing service Network Connection...
+Service Network Connection has been successfully installed.
+Creating EventLog source Network Connection in log Application...
+Committing assembly 'D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.exe
+   logfile = D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.InstallLog
+Uninstalling assembly 'D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.exe
+   logfile = D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.InstallLog
+Removing EventLog source Network Connection.
+Service Network Connection is being removed from the system...
+Service Network Connection was successfully removed from the system.
+Installing assembly 'D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.exe
+   logfile = D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.InstallLog
+Installing service Network Connection...
+Service Network Connection has been successfully installed.
+Creating EventLog source Network Connection in log Application...
+Committing assembly 'D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.exe
+   logfile = D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.InstallLog
+Uninstalling assembly 'D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.exe
+   logfile = D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.InstallLog
+Removing EventLog source Network Connection.
+Service Network Connection is being removed from the system...
+Service Network Connection was successfully removed from the system.
+Installing assembly 'D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.exe
+   logfile = D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.InstallLog
+Installing service Network Connection...
+Service Network Connection has been successfully installed.
+Creating EventLog source Network Connection in log Application...
+Committing assembly 'D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.exe
+   logfile = D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.InstallLog
+Uninstalling assembly 'D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.exe
+   logfile = D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.InstallLog
+Removing EventLog source Network Connection.
+Service Network Connection is being removed from the system...
+Service Network Connection was successfully removed from the system.
+Installing assembly 'D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.exe
+   logfile = D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.InstallLog
+Installing service Network Connection...
+Service Network Connection has been successfully installed.
+Creating EventLog source Network Connection in log Application...
+Committing assembly 'D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.exe
+   logfile = D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.InstallLog
+Uninstalling assembly 'D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.exe
+   logfile = D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.InstallLog
+Removing EventLog source Network Connection.
+Service Network Connection is being removed from the system...
+Service Network Connection was successfully removed from the system.
+Attempt to stop service Network Connection.
+Installing assembly 'D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.exe
+   logfile = D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.InstallLog
+Installing service Network Connection...
+Service Network Connection has been successfully installed.
+Creating EventLog source Network Connection in log Application...
+Committing assembly 'D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.exe
+   logfile = D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.InstallLog
+Installing assembly 'D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.exe
+   logfile = D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.InstallLog
+Installing service Network Connection...
+Creating EventLog source Network Connection in log Application...
+Rolling back assembly 'D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.exe
+   logfile = D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.InstallLog
+Restoring event log to previous state for source Network Connection.
+Uninstalling assembly 'D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.exe
+   logfile = D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.InstallLog
+Removing EventLog source Network Connection.
+Service Network Connection is being removed from the system...
+Service Network Connection was successfully removed from the system.
+Installing assembly 'D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.exe
+   logfile = D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.InstallLog
+Installing service Network Connection...
+Service Network Connection has been successfully installed.
+Creating EventLog source Network Connection in log Application...
+Committing assembly 'D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.exe
+   logfile = D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.InstallLog
+Uninstalling assembly 'D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.exe
+   logfile = D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.InstallLog
+Removing EventLog source Network Connection.
+Service Network Connection is being removed from the system...
+Service Network Connection was successfully removed from the system.
+Attempt to stop service Network Connection.
+Installing assembly 'D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.exe
+   logfile = D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.InstallLog
+Installing service Network Connection...
+Service Network Connection has been successfully installed.
+Creating EventLog source Network Connection in log Application...
+Committing assembly 'D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.exe
+   logfile = D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.InstallLog
+Uninstalling assembly 'D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.exe
+   logfile = D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.InstallLog
+Removing EventLog source Network Connection.
+Service Network Connection is being removed from the system...
+Service Network Connection was successfully removed from the system.
+Installing assembly 'D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.exe
+   logfile = D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.InstallLog
+Installing service Network Connection...
+Creating EventLog source Network Connection in log Application...
+Rolling back assembly 'D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.exe
+   logfile = D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.InstallLog
+Restoring event log to previous state for source Network Connection.
+Uninstalling assembly 'D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.exe
+   logfile = D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.InstallLog
+Removing EventLog source Network Connection.
+Warning: The source Network Connection is not registered on the local machine.
+Service Network Connection is being removed from the system...
+Service Network Connection was successfully removed from the system.
+Installing assembly 'D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.exe
+   logfile = D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.InstallLog
+Installing service Network Connection...
+Creating EventLog source Network Connection in log Application...
+Rolling back assembly 'D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.exe
+   logfile = D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.InstallLog
+Restoring event log to previous state for source Network Connection.
+Uninstalling assembly 'D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.exe
+   logfile = D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.InstallLog
+Removing EventLog source Network Connection.
+Warning: The source Network Connection is not registered on the local machine.
+Service Network Connection is being removed from the system...
+Service Network Connection was successfully removed from the system.
+Installing assembly 'D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.exe
+   logfile = D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.InstallLog
+Installing service Network Connection...
+Creating EventLog source Network Connection in log Application...
+Rolling back assembly 'D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.exe
+   logfile = D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.InstallLog
+Restoring event log to previous state for source Network Connection.
+Uninstalling assembly 'D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.exe
+   logfile = D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.InstallLog
+Removing EventLog source Network Connection.
+Warning: The source Network Connection is not registered on the local machine.
+Service Network Connection is being removed from the system...
+Service Network Connection was successfully removed from the system.
+Uninstalling assembly 'D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.exe
+   logfile = D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.InstallLog
+Removing EventLog source Network Connection.
+Warning: The source Network Connection is not registered on the local machine.
+Service Network Connection is being removed from the system...
+Service Network Connection was successfully removed from the system.
+Installing assembly 'D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.exe
+   logfile = D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.InstallLog
+Installing service Network Connection...
+Creating EventLog source Network Connection in log Application...
+Rolling back assembly 'D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.exe
+   logfile = D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.InstallLog
+Restoring event log to previous state for source Network Connection.
+Installing assembly 'D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.exe
+   logfile = D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.InstallLog
+Installing service Network Connection...
+Creating EventLog source Network Connection in log Application...
+Rolling back assembly 'D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.exe
+   logfile = D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.InstallLog
+Restoring event log to previous state for source Network Connection.
+An exception occurred during the Rollback phase of the System.Diagnostics.EventLogInstaller installer.
+System.Security.SecurityException: The source was not found, but some or all event logs could not be searched.  Inaccessible logs: Security, State.
+An exception occurred during the Rollback phase of the installation. This exception will be ignored and the rollback will continue. However, the machine might not fully revert to its initial state after the rollback is complete.
+Installing assembly 'D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.exe
+   logfile = D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.InstallLog
+Installing service Network Connection...
+Creating EventLog source Network Connection in log Application...
+Rolling back assembly 'D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.exe
+   logfile = D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.InstallLog
+Restoring event log to previous state for source Network Connection.
+An exception occurred during the Rollback phase of the System.Diagnostics.EventLogInstaller installer.
+System.Security.SecurityException: The source was not found, but some or all event logs could not be searched.  Inaccessible logs: Security, State.
+An exception occurred during the Rollback phase of the installation. This exception will be ignored and the rollback will continue. However, the machine might not fully revert to its initial state after the rollback is complete.
+Installing assembly 'D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.exe
+   logfile = D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.InstallLog
+Installing service Network Connection...
+Creating EventLog source Network Connection in log Application...
+Rolling back assembly 'D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.exe
+   logfile = D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.InstallLog
+Restoring event log to previous state for source Network Connection.
+An exception occurred during the Rollback phase of the System.Diagnostics.EventLogInstaller installer.
+System.Security.SecurityException: The source was not found, but some or all event logs could not be searched.  Inaccessible logs: Security, State.
+An exception occurred during the Rollback phase of the installation. This exception will be ignored and the rollback will continue. However, the machine might not fully revert to its initial state after the rollback is complete.
+Installing assembly 'D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.exe
+   logfile = D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.InstallLog
+Installing service Network Connection...
+Creating EventLog source Network Connection in log Application...
+Rolling back assembly 'D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.exe
+   logfile = D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.InstallLog
+Restoring event log to previous state for source Network Connection.
+An exception occurred during the Rollback phase of the System.Diagnostics.EventLogInstaller installer.
+System.Security.SecurityException: The source was not found, but some or all event logs could not be searched.  Inaccessible logs: Security, State.
+An exception occurred during the Rollback phase of the installation. This exception will be ignored and the rollback will continue. However, the machine might not fully revert to its initial state after the rollback is complete.
+Installing assembly 'D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.exe
+   logfile = D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.InstallLog
+Installing service Network Connection...
+Creating EventLog source Network Connection in log Application...
+Rolling back assembly 'D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.exe
+   logfile = D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.InstallLog
+Restoring event log to previous state for source Network Connection.
+An exception occurred during the Rollback phase of the System.Diagnostics.EventLogInstaller installer.
+System.Security.SecurityException: The source was not found, but some or all event logs could not be searched.  Inaccessible logs: Security, State.
+An exception occurred during the Rollback phase of the installation. This exception will be ignored and the rollback will continue. However, the machine might not fully revert to its initial state after the rollback is complete.
+Installing assembly 'D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.exe
+   logfile = D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.InstallLog
+Installing service Network Connection...
+Creating EventLog source Network Connection in log ServiceExample...
+Rolling back assembly 'D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.exe
+   logfile = D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.InstallLog
+Restoring event log to previous state for source Network Connection.
+An exception occurred during the Rollback phase of the System.Diagnostics.EventLogInstaller installer.
+System.Security.SecurityException: Requested registry access is not allowed.
+An exception occurred during the Rollback phase of the installation. This exception will be ignored and the rollback will continue. However, the machine might not fully revert to its initial state after the rollback is complete.
+Installing assembly 'D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.exe
+   logfile = D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.InstallLog
+Installing service Network Connection...
+Creating EventLog source Network Connection in log ServiceExample...
+Rolling back assembly 'D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.exe
+   logfile = D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.InstallLog
+Restoring event log to previous state for source Network Connection.
+An exception occurred during the Rollback phase of the System.Diagnostics.EventLogInstaller installer.
+System.Security.SecurityException: Requested registry access is not allowed.
+An exception occurred during the Rollback phase of the installation. This exception will be ignored and the rollback will continue. However, the machine might not fully revert to its initial state after the rollback is complete.
+Installing assembly 'D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.exe
+   logfile = D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.InstallLog
+Installing service Network Connection...
+Service Network Connection has been successfully installed.
+Creating EventLog source Network Connection in log ServiceExample...
+Committing assembly 'D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.exe
+   logfile = D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.InstallLog
+Uninstalling assembly 'D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.exe
+   logfile = D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.InstallLog
+Removing EventLog source Network Connection.
+Deleting event log ServiceExample.
+Service Network Connection is being removed from the system...
+Service Network Connection was successfully removed from the system.
+Attempt to stop service Network Connection.
+Installing assembly 'D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.exe
+   logfile = D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.InstallLog
+Installing service Network Connection...
+Service Network Connection has been successfully installed.
+Creating EventLog source Network Connection in log ServiceExample...
+Rolling back assembly 'D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.exe
+   logfile = D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.InstallLog
+Restoring event log to previous state for source Network Connection.
+An exception occurred during the Rollback phase of the System.Diagnostics.EventLogInstaller installer.
+System.InvalidOperationException: Cannot find Log ServiceExample on computer '.'.
+An exception occurred during the Rollback phase of the installation. This exception will be ignored and the rollback will continue. However, the machine might not fully revert to its initial state after the rollback is complete.
+Installing assembly 'D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.exe
+   logfile = D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.InstallLog
+Installing service Network Connection...
+Creating EventLog source Network Connection in log ServiceExample...
+Rolling back assembly 'D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.exe
+   logfile = D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.InstallLog
+Restoring event log to previous state for source Network Connection.
+An exception occurred during the Rollback phase of the System.Diagnostics.EventLogInstaller installer.
+System.InvalidOperationException: Cannot find Log ServiceExample on computer '.'.
+An exception occurred during the Rollback phase of the installation. This exception will be ignored and the rollback will continue. However, the machine might not fully revert to its initial state after the rollback is complete.
+Installing assembly 'D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.exe
+   logfile = D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.InstallLog
+Installing service Network Connection...
+Creating EventLog source Network Connection in log ServiceExample...
+Rolling back assembly 'D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.exe
+   logfile = D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.InstallLog
+Restoring event log to previous state for source Network Connection.
+An exception occurred during the Rollback phase of the System.Diagnostics.EventLogInstaller installer.
+System.InvalidOperationException: Cannot find Log ServiceExample on computer '.'.
+An exception occurred during the Rollback phase of the installation. This exception will be ignored and the rollback will continue. However, the machine might not fully revert to its initial state after the rollback is complete.
+Installing assembly 'D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.exe
+   logfile = D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.InstallLog
+Installing service Network Connection...
+Creating EventLog source Network Connection in log NghiemLog...
+Rolling back assembly 'D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.exe
+   logfile = D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.InstallLog
+Restoring event log to previous state for source Network Connection.
+An exception occurred during the Rollback phase of the System.Diagnostics.EventLogInstaller installer.
+System.InvalidOperationException: Cannot find Log NghiemLog on computer '.'.
+An exception occurred during the Rollback phase of the installation. This exception will be ignored and the rollback will continue. However, the machine might not fully revert to its initial state after the rollback is complete.
+Installing assembly 'D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.exe
+   logfile = D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.InstallLog
+Installing service Network Connection...
+Creating EventLog source Network Connection in log Service1...
+Rolling back assembly 'D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.exe
+   logfile = D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.InstallLog
+Restoring event log to previous state for source Network Connection.
+An exception occurred during the Rollback phase of the System.Diagnostics.EventLogInstaller installer.
+System.InvalidOperationException: Cannot find Log Service1 on computer '.'.
+An exception occurred during the Rollback phase of the installation. This exception will be ignored and the rollback will continue. However, the machine might not fully revert to its initial state after the rollback is complete.
+Installing assembly 'D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.exe
+   logfile = D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.InstallLog
+Installing service Network Connection...
+Creating EventLog source Network Connection in log Service1...
+Rolling back assembly 'D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.exe
+   logfile = D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.InstallLog
+Restoring event log to previous state for source Network Connection.
+An exception occurred during the Rollback phase of the System.Diagnostics.EventLogInstaller installer.
+System.InvalidOperationException: Cannot find Log Service1 on computer '.'.
+An exception occurred during the Rollback phase of the installation. This exception will be ignored and the rollback will continue. However, the machine might not fully revert to its initial state after the rollback is complete.
+Installing assembly 'D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.exe
+   logfile = D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.InstallLog
+Installing service Network Connection...
+Creating EventLog source Network Connection in log Service1...
+Rolling back assembly 'D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.exe
+   logfile = D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.InstallLog
+Restoring event log to previous state for source Network Connection.
+An exception occurred during the Rollback phase of the System.Diagnostics.EventLogInstaller installer.
+System.InvalidOperationException: Cannot find Log Service1 on computer '.'.
+An exception occurred during the Rollback phase of the installation. This exception will be ignored and the rollback will continue. However, the machine might not fully revert to its initial state after the rollback is complete.
+Installing assembly 'D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.exe
+   logfile = D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.InstallLog
+Installing service Network Connection...
+Creating EventLog source Network Connection in log Application...
+Rolling back assembly 'D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.exe
+   logfile = D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.InstallLog
+Restoring event log to previous state for source Network Connection.
+Uninstalling assembly 'D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.exe
+   logfile = D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.InstallLog
+Removing EventLog source Network Connection.
+Service Network Connection is being removed from the system...
+Service Network Connection was successfully removed from the system.
+Installing assembly 'D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.exe
+   logfile = D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.InstallLog
+Installing service Network Connection...
+Service Network Connection has been successfully installed.
+Creating EventLog source Network Connection in log Application...
+Committing assembly 'D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.exe
+   logfile = D:\Code\C-Sharp\auto-remote-win-form\auto-remote-win-form\auto-remote-win-form\bin\Debug\auto-remote-win-form.InstallLog
