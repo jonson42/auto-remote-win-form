@@ -50,8 +50,7 @@ namespace AutoSeleniumFromExcel
 
             if (numberThread != 1)
             {
-                numberThread = dataForRun.Count / numberThread;
-                listData = SplitList.SplitListProcess(dataForRun, numberThread);
+                listData = SplitList.SplitWithNumberThread(dataForRun, numberThread);
                 SplitList.AddHeaderForList(listData);
             }
             else
@@ -74,20 +73,18 @@ namespace AutoSeleniumFromExcel
             }
         }
 
-        private void RunTaskill()
+        private void RunTaskill(List<string> listCmd)
         {
-            System.Diagnostics.Process process = new System.Diagnostics.Process();
-            System.Diagnostics.ProcessStartInfo startInfo = new System.Diagnostics.ProcessStartInfo();
-            startInfo.WindowStyle = System.Diagnostics.ProcessWindowStyle.Hidden;
-            startInfo.FileName = "cmd.exe";
-            startInfo.Arguments = "@ECHO OFF "+
-                    "taskkill /f /im NMCC.exe "+
-                    "taskkill /f /im chrome.exe "+
-                    "taskkill /f /im chromedriver.exe "+
-                     " EXIT "+
-                       " ";
-            process.StartInfo = startInfo;
-            process.Start();
+            foreach(var item in listCmd)
+            {
+                System.Diagnostics.Process process = new System.Diagnostics.Process();
+                System.Diagnostics.ProcessStartInfo startInfo = new System.Diagnostics.ProcessStartInfo();
+                startInfo.WindowStyle = System.Diagnostics.ProcessWindowStyle.Hidden;
+                startInfo.FileName = "cmd.exe";
+                startInfo.Arguments = item;
+                process.StartInfo = startInfo;
+                process.Start();
+            }
         }
         private List<string> GetListFirstColumn(List<List<string>> list)
         {
@@ -130,7 +127,12 @@ namespace AutoSeleniumFromExcel
                     var timeWait = ConvertMinutesToMilliseconds(Int32.Parse(txtTimeWait.Text));
                     Thread.Sleep(timeWait);
                     robot.CloseRobot();
-                    RunTaskill();
+                    var listCmd = new List<string>() {
+                    "taskkill /f /im NMCC.exe ",
+                    "taskkill /f /im chrome.exe ",
+                    "taskkill /f /im chromedriver.exe "
+                    };
+                    RunTaskill(listCmd);
                 }
                 else
                 {
