@@ -6,6 +6,7 @@ using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
 using System.Drawing;
+using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading;
@@ -23,18 +24,33 @@ namespace AutoSeleniumFromExcel
 
         private void btnStart_Click(object sender, EventArgs e)
         {
+            if (cbOption.Text == "Album")
+            {
+                RunWithFileName("Config_Album.xlsx");
+            }
+            else
+            {
+                RunWithFileName("Config_Artis.xlsx");
+            }
+
+        }
+
+        private void RunWithFileName(string fileName)
+        {
             int width = Int32.Parse(txtWidth.Text);
             int height = Int32.Parse(txtHeight.Text);
             int numberThread = Int32.Parse(txtThreadNbr.Text);
             List<Thread> lstThreads = new List<Thread>();
-            
-            Excell excel = new Excell("Config.xlsx");
+
+            Excell excel = new Excell(fileName);
             var dict = excel.ReadFile("DataAuto");
             var dataForRun = excel.ReadFile("DataRun");
             var listSearch = GetListFirstColumn(excel.ReadFile("KeySearch"));
             var listData = new List<List<List<string>>>();
+
             if (numberThread != 1)
             {
+                numberThread = dataForRun.Count / numberThread;
                 listData = SplitList.SplitListProcess(dataForRun, numberThread);
                 SplitList.AddHeaderForList(listData);
             }
@@ -42,7 +58,8 @@ namespace AutoSeleniumFromExcel
             {
                 listData.Add(dataForRun);
             }
-            for(int i=0;i<Int32.Parse(txtLoop.Text);i++){
+            for (int i = 0; i < Int32.Parse(txtLoop.Text); i++)
+            {
                 int threadNum = 0;
                 foreach (var item in listData)
                 {
@@ -55,9 +72,23 @@ namespace AutoSeleniumFromExcel
                     th.Start();
                 //MessageBox.Show("Run successfully !");
             }
-
         }
 
+        private void RunTaskill()
+        {
+            System.Diagnostics.Process process = new System.Diagnostics.Process();
+            System.Diagnostics.ProcessStartInfo startInfo = new System.Diagnostics.ProcessStartInfo();
+            startInfo.WindowStyle = System.Diagnostics.ProcessWindowStyle.Hidden;
+            startInfo.FileName = "cmd.exe";
+            startInfo.Arguments = "@ECHO OFF "+
+                    "taskkill /f /im NMCC.exe "+
+                    "taskkill /f /im chrome.exe "+
+                    "taskkill /f /im chromedriver.exe "+
+                     " EXIT "+
+                       " ";
+            process.StartInfo = startInfo;
+            process.Start();
+        }
         private List<string> GetListFirstColumn(List<List<string>> list)
         {
             var result = new List<string>();
@@ -67,6 +98,7 @@ namespace AutoSeleniumFromExcel
             }
             return result;
         }
+        
         private void MainFunction(List<List<string>> dataForRun,List<List<string>> dict,List<string> listSearch,int threadNum,int width,int height)
         {
             int x = 0;
@@ -98,11 +130,26 @@ namespace AutoSeleniumFromExcel
                     var timeWait = ConvertMinutesToMilliseconds(Int32.Parse(txtTimeWait.Text));
                     Thread.Sleep(timeWait);
                     robot.CloseRobot();
+                    RunTaskill();
+                }
+                else
+                {
+                    LogUserError(dictValue["User"]);
                 }
                 
             }
         }
+        private void LogUserError(string userName)
+        {
+            string path = Directory.GetCurrentDirectory() + "\\userError.txt";
+            if (!File.Exists(path))
+            {
+                File.Create(path).Close();
 
+            }
+            File.AppendAllLines(path, new[] { userName });
+
+        }
         private Dictionary<string, string> FirstBuildDictionaryValue(List<List<string>> input)
         {
             var result = new Dictionary<string, string>();
