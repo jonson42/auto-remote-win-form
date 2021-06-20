@@ -18,7 +18,14 @@ Removete :
 user: administrator
 pass: Giacat@123
 
-________________________________
+________________________________]
+
+DefaultAccount
 40.90.160.226
 us:Tung
 Ps: 0976585894Ha@
+
+
+40.90.161.69
+us:Tung 
+Ps : Cuong96nghean
